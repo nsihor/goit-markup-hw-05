@@ -153,6 +153,7 @@ body {
   bottom: 0;
   background: var(--pressed_state);
   border-radius: 2px;
+  margin-bottom: -1px;
 }
 
 .header_address {
@@ -286,6 +287,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+  letter-spacing: 0.04em;
   color: var(--light_title);
   background: var(--primary_brand);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
